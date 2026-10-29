@@ -1,0 +1,10 @@
+{
+  "description": "A WhatsApp Web-inspired messaging interface for testing chat designs, with sample conversations and interactive chats where users can write and send messages.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
